@@ -1,2 +1,2 @@
 # Lottery-Smart-Contract
-Lottery contract using Hardhat, Ether.js, Chainlink VRF and Chainlink Keepers
+Lottery contract using Hardhat, Chainlink VRF and Chainlink Keepers
